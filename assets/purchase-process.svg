@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">ChatGPT Plus购买流程</title><desc id="desc">从确认需求到核对订阅状态的八步流程</desc>
+  <rect width="1200" height="420" rx="24" fill="#f6f8fa"/>
+  <text x="600" y="58" text-anchor="middle" font-size="34" font-weight="700" fill="#24292f" font-family="Arial, PingFang SC, sans-serif">从确认需求到完成订阅</text>
+  <g font-family="Arial, PingFang SC, sans-serif" text-anchor="middle">
+    <path d="M135 165H1065" stroke="#8c959f" stroke-width="5" stroke-linecap="round"/>
+    <g transform="translate(100 165)"><circle r="38" fill="#0969da"/><text y="10" font-size="27" fill="#fff">1</text><text y="82" font-size="18" font-weight="700" fill="#24292f">确认需求</text><text y="108" font-size="15" fill="#57606a">订阅或API</text></g>
+    <g transform="translate(243 165)"><circle r="38" fill="#0969da"/><text y="10" font-size="27" fill="#fff">2</text><text y="82" font-size="18" font-weight="700" fill="#24292f">比较方式</text><text y="108" font-size="15" fill="#57606a">控制权与成本</text></g>
+    <g transform="translate(386 165)"><circle r="38" fill="#8250df"/><text y="10" font-size="27" fill="#fff">3</text><text y="82" font-size="18" font-weight="700" fill="#24292f">阅读风险</text><text y="108" font-size="15" fill="#57606a">隐私与售后</text></g>
+    <g transform="translate(529 165)"><circle r="38" fill="#8250df"/><text y="10" font-size="27" fill="#fff">4</text><text y="82" font-size="18" font-weight="700" fill="#24292f">查看规则</text><text y="108" font-size="15" fill="#57606a">以实时页面为准</text></g>
+    <g transform="translate(672 165)"><circle r="38" fill="#1a7f37"/><text y="10" font-size="27" fill="#fff">5</text><text y="82" font-size="18" font-weight="700" fill="#24292f">确认账号</text><text y="108" font-size="15" fill="#57606a">本人或新账号</text></g>
+    <g transform="translate(815 165)"><circle r="38" fill="#1a7f37"/><text y="10" font-size="27" fill="#fff">6</text><text y="82" font-size="18" font-weight="700" fill="#24292f">选择套餐</text><text y="108" font-size="15" fill="#57606a">周期与续费</text></g>
+    <g transform="translate(958 165)"><circle r="38" fill="#bf8700"/><text y="10" font-size="27" fill="#fff">7</text><text y="82" font-size="18" font-weight="700" fill="#24292f">下单付款</text><text y="108" font-size="15" fill="#57606a">保存订单记录</text></g>
+    <g transform="translate(1101 165)"><circle r="38" fill="#bf8700"/><text y="10" font-size="27" fill="#fff">8</text><text y="82" font-size="18" font-weight="700" fill="#24292f">核对状态</text><text y="108" font-size="15" fill="#57606a">确认订阅页面</text></g>
+  </g>
+  <rect x="170" y="320" width="860" height="54" rx="27" fill="#fff8c5" stroke="#d4a72c"/>
+  <text x="600" y="354" text-anchor="middle" font-size="18" fill="#633c01" font-family="Arial, PingFang SC, sans-serif">任何信息不清楚：暂停付款，先核实，不重复提交订单</text>
+</svg>
