@@ -1,6 +1,6 @@
 # 2026年ChatGPT Plus购买与充值指南：国内怎么开通、如何付款及风险说明
 
-> 最后核实日期：2026-08-01
+> 最后核实日期：2026-08-17
 
 国内用户开通 ChatGPT Plus，真正卡住的通常不是注册，而是付款。能在自己的账号里完成官方订阅最省心；付不了，再比较 Token 代充、其他第三方协助和成品号。下单前先分清买的是哪种服务，尤其别把给自己的账号办理 ChatGPT Plus 当成购买成品号，也别把账号 Token 当成 API Key。
 
@@ -13,6 +13,15 @@
     <img src="./assets/order-now.svg" alt="前往星际放映厅下单" width="520">
   </a>
 </p>
+
+## ChatGPT购买前最常问的几个问题
+
+- [ChatGPT Go、Plus、Pro怎么选？](docs/chatgpt-plans.md)
+- [ChatGPT Plus国内怎么购买？](docs/payment-methods.md)
+- [ChatGPT Plus付款失败、银行卡被拒怎么办？](docs/payment-failed.md)
+- [给自己的账号代充和成品账号有什么区别？](docs/recharge-vs-ready-account.md)
+- [ChatGPT Plus包含API吗？](docs/plus-vs-api.md)
+- [ChatGPT Plus能不能开发票？企业采购怎么处理？](docs/invoice-and-business.md)
 
 ![常见购买方式对比](assets/payment-methods.svg)
 
