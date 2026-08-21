@@ -20,6 +20,7 @@
 - [ChatGPT Plus国内怎么购买？](docs/payment-methods.md)
 - [ChatGPT Plus可以用支付宝或微信买吗？](docs/chatgpt-plus-alipay-wechat.md)
 - [GPT代充需要提供什么？要密码、Token还是Session？](docs/gpt-daichong-requirements.md)
+- [GPT代充安全吗？会封号、掉会员吗？](docs/security-and-risks.md)
 - [ChatGPT Plus付款失败、银行卡被拒怎么办？](docs/payment-failed.md)
 - [给自己的账号代充和成品账号有什么区别？](docs/recharge-vs-ready-account.md)
 - [ChatGPT Plus包含API吗？](docs/plus-vs-api.md)
